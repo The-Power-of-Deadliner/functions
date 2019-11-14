@@ -1,0 +1,6 @@
+azure-functions
+psycopg2
+requests
+azure-storage-blob
+sklearn
+pandas
